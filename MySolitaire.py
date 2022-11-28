@@ -23,8 +23,6 @@ SIDE_BACK = 1
 
 BOUNCE_ENERGY = 0.8
 
-# We store cards as numbers 1-13, since we only need
-# to know their order for solitaire.
 SUITS = ["C", "S", "H", "D"]
 
 
